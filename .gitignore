@@ -1,0 +1,11 @@
+target/
+/.lib/
+
+*~
+.idea/
+.idea_modules/
+
+.cache
+.project
+.settings/
+*.sublime-*
